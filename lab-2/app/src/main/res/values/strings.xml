@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin Labs</string>
+    <string name="greeting">Привет, %1$s!</string>
+    <string name="name_missing">Имя не задано</string>
+    <string name="open_exercises">Задания 3–5</string>
+    <string name="compose_description">Jetpack Compose — это современный набор инструментов для создания пользовательского интерфейса (UI) на Android, разработанный Google</string>
+    <string name="exercise_button">Нажми на меня</string>
+    <string name="student_initials">НМ</string>
+    <string name="contact_first_name">Имя: %1$s</string>
+    <string name="contact_patronymic">Отчество: %1$s</string>
+    <string name="contact_last_name">Фамилия: %1$s</string>
+    <string name="contact_phone">Мобильный телефон: %1$s</string>
+    <string name="contact_address">Адрес: %1$s</string>
+    <string name="open_next_exercises">Задания 6–9</string>
+    <string name="open_shopping_cart">Задание 10 — Корзина</string>
+    <string name="cart_product_name">Товар #%1$d</string>
+    <string name="cart_product_line">%1$s - %2$d рублей</string>
+    <string name="cart_total">Товаров на сумму: %1$d рублей</string>
+    <string name="cart_add_product">Добавить товар</string>
+    <string name="cart_remove_product">Удалить товар</string>
+    <string name="cart_free_delivery">Доставка бесплатная!</string>
+    <string name="water_tracker_title">Трекер воды</string>
+    <string name="water_amount">%1$d мл</string>
+    <string name="add_water">+250 мл</string>
+    <string name="finish_day">Завершить день</string>
+    <string name="water_streak">Дней подряд с 1500 мл и больше: %1$d</string>
+</resources>
